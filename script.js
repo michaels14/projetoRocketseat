@@ -9,13 +9,13 @@ function toggleMode() {
     img.setAttribute("src", "./assets/avatar-light.png")
     img.setAttribute(
       "alt",
-      "Foto do Mayk Brito sorrindo, usando óculos e jaqueta preta, com fundo degradê do roxo para azul"
+      "Foto do Michael Lopes, de camiseta branca com corrente, olhando em direção à câmera"
     )
   } else {
     img.setAttribute("src", "./assets/avatar.png")
     img.setAttribute(
       "alt",
-      "Foto do Mayk Brito sorrindo, usando óculos e camisa preta, com fundo amarelo"
+      "Foto do Michael Lopes, de terno com gravata vermelha, olhando para o lado"
     )
   }
 }
